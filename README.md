@@ -9,3 +9,13 @@
 
 #### 4) minO(1): Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.
 
+#### 5) getMinConstSpace: Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.
+
+#### 6) queue2stacks: Implement a Queue using 2 stacks s1 and s2 .
+
+#### 7) longesrValidSubstring: Given a string S consisting only of opening and closing parenthesis 'ie '('  and ')', find out the length of the longest valid substring.
+
+#### 8) stack2queues: Implement a Stack using two queues q1 and q2.
+
+#### 9) countReversal: Given a string S consisting only of opening and closing curly brackets '{' and '}' find out the minimum number of reversals required to make a balanced expression.
+
